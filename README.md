@@ -20,7 +20,11 @@ Click the link below to access the dataset used for this project:
 
 ## 🌱 Overview
 
-This dataset is part of a Kaggle competition focused on leveraging AI to analyze hyperspectral agricultural data beyond the visible light spectrum. The goal is to predict the test.csv and put the respective predicted % using regression to the test.csv
+Welcome to a whole new field of farming — literally beyond what the eye can see.
 
+This project tackles the Beyond Visible Spectrum dataset provided by Kaggle as part of the AI for Agriculture 2025 challenge. The focus? Utilizing hyperspectral imaging for agricultural analysis and prediction.
+
+🔬 Goal:
+Use regression models to predict wheater the plant have rust diseased based on hyperspectral data and fill in the missing prediction values in test.csv.
 ---
 
